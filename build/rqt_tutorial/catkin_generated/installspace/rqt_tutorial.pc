@@ -1,0 +1,8 @@
+prefix=/home/lby/tutorial_ws/install
+
+Name: rqt_tutorial
+Description: Description of rqt_tutorial
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

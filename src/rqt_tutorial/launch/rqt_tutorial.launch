@@ -1,0 +1,9 @@
+<launch>
+
+    <!--启动rqt动态调参教程节点-->
+    <node pkg="rqt_tutorial" type="rqt_tutorial_node.py" name="rqt_tutorial_node" output="screen"/>
+
+    <!--启动rqt_reconfigure工具-->
+    <node pkg="rqt_reconfigure" type="rqt_reconfigure" name="rqt_reconfigure"/>
+
+</launch>
