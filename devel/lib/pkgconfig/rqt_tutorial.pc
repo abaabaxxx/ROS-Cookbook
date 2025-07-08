@@ -1,8 +1,0 @@
-prefix=/home/lby/tutorial_ws/devel
-
-Name: rqt_tutorial
-Description: Description of rqt_tutorial
-Version: 0.0.0
-Cflags: -I/home/lby/tutorial_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: 

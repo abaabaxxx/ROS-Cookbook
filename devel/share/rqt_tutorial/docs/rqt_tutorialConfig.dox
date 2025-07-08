@@ -1,9 +1,0 @@
-\subsubsection parameters ROS parameters
-
-Reads and maintains the following parameters on the ROS server
-
-- \b "~speed_A" : \b [double] 速度A min: 0.0, default: 1.0, max: 10.0
-- \b "~speed_B" : \b [double] 速度B min: 0.0, default: 2.0, max: 10.0
-- \b "~X_position" : \b [double] X坐标 min: -10.0, default: 0.0, max: 10.0
-- \b "~Y_position" : \b [double] Y坐标 min: -10.0, default: 0.0, max: 10.0
-
