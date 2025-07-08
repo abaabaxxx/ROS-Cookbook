@@ -6,6 +6,9 @@ build/
 devel/
 install/
 
+# 其他无用
+.catkin_workspace
+
 # 日志文件和目录
 log/
 logs/
