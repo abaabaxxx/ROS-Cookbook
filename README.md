@@ -7,11 +7,12 @@
 ```
 tutorial_ws/
 ├── src/                
-│   ├── rqt_tutorials/            # rqt 动态调参教程包
-│   └── git_in_competition/       # Git 在竞速等比赛中的应用教程包
-    |---- edit_map/                # 编辑 .pgm 导航栅格地图
-├── CMakeLists.txt      
-└── package.xml    
+│   ├── rqt_tutorials/           # rqt 动态调参教程包
+│   ├── git_in_competition/     # Git 在竞速等比赛中的应用教程包
+│   └── edit_map/               # 编辑 .pgm 导航栅格地图的教程包
+├── CMakeLists.txt             
+└── package.xml                
+ 
 ```
 
 # 包说明
